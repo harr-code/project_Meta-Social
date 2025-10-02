@@ -1,0 +1,5 @@
+body.blog .site-content > .ast-container,
+body.wp-singular.single.single-post .site-content > .ast-container {
+  max-width: 100%;
+  padding: 0;
+}
