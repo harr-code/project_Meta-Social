@@ -1,136 +1,32 @@
 [
     {
-        "fullname": "Test Dev",
-        "business_email": "test@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0210552446",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "time": "2025-10-01 16:42:17",
-        "code_2fa": "12122212"
-    },
-    {
-        "fullname": "Test Dev",
-        "business_email": "test@gmail.com",
-        "personal_email": "haha@gmail.com",
-        "phone": "0124545654",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "time": "2025-10-02 09:50:46",
-        "code_2fa": "11111111"
-    },
-    {
-        "fullname": "Dev",
+        "fullname": "FEREWEWE",
         "business_email": "haha@gmail.com",
         "personal_email": "test@gmail.com",
+        "phone": "0124545654",
+        "password_first": "123456",
+        "password": "jfhkjyturterw3543",
+        "location": "Montreal, Canada",
+        "user_ip": "24.48.0.1"
+    },
+    {
+        "fullname": "DEV",
+        "business_email": "worktest@gmail.com",
+        "personal_email": "personaltest@gmail.com",
         "phone": "0947441493",
-        "password": "0000051454484",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "time": "2025-10-02 13:47:28",
-        "code_2fa": "76575756"
-    },
-    {
-        "fullname": "HEHE",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0124545654",
-        "password": "123456543453",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "code_2fa": "86797897"
-    },
-    {
-        "fullname": "HEHEEEE",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0124545654",
-        "password": "123456654646476876876867",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "code_2fa": "75675675"
-    },
-    {
-        "fullname": "HUHU",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0124546666",
-        "password": "1234568888888",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "code_2fa": "09897967"
-    },
-    {
-        "fullname": "HEHEEEE",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0124545654",
-        "password": "87867867867866",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "code_2fa": "45765756"
-    },
-    {
-        "fullname": "HEHEEEE",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0124545654",
-        "password_first": "1234562222222",
-        "password": "1234562222222",
+        "password_first": "123456",
+        "password": "7565757575756756",
         "location": "Montreal, Canada",
         "user_ip": "24.48.0.1"
     },
     {
-        "fullname": "HEHE",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0210552446",
-        "password_first": "6565565656566",
-        "password": "6565565656566",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1"
-    },
-    {
-        "fullname": "Test Dev",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0124545654",
-        "password_first": "Empty",
-        "password": "12345611111111",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1"
-    },
-    {
-        "fullname": "HAHA",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0124545654",
-        "password_first": "Empty",
-        "password": "1234564444444",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1"
-    },
-    {
-        "fullname": "HIHI",
+        "fullname": "DEVTEST",
         "business_email": "haha@gmail.com",
         "personal_email": "test@gmail.com",
         "phone": "0124545654",
         "password_first": "123456",
-        "password": "123456111111",
+        "password": "123456666666666",
         "location": "Montreal, Canada",
         "user_ip": "24.48.0.1"
-    },
-    {
-        "fullname": "HUHU",
-        "business_email": "haha@gmail.com",
-        "personal_email": "test@gmail.com",
-        "phone": "0210552446",
-        "password_first": "123456",
-        "password": "1234566546464645645",
-        "location": "Montreal, Canada",
-        "user_ip": "24.48.0.1",
-        "code_2fa": "97865756",
-        "code_first": "32123434",
-        "code_second": "77776676"
     }
 ]
